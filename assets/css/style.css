@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+    background-color: lightyellow;
+}
+
+header {
+    color: blue;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+#timer {
+    font-size: 20px;
+}
+
+.question {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.q-header {
+    margin: 5px;
+}
